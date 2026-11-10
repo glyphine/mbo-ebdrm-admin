@@ -1,10 +1,10 @@
-# MBO EBDRM Admin
+# MBO EBDRMS Admin
 
-An admin dashboard for managing MBO EBDRM data, workflows, and user access.
+An admin dashboard for managing MBO EBDRMS data, workflows, and user access.
 
 ## Overview
 
-This project is the administrative interface for the MBO EBDRM platform. It is intended to provide a clear, secure place for authorized users to:
+This project is the administrative interface for the MBO EBDRMS platform. It is intended to provide a clear, secure place for authorized users to:
 
 - Review and manage platform records
 - Monitor operational activity
